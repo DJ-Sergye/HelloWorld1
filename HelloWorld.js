@@ -1,4 +1,3 @@
-
 var HelloWorld = (function () {
     function HelloWorld(firstName, lastName) {
         this.firstName = firstName;
